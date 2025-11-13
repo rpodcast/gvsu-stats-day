@@ -44,9 +44,31 @@ Eli Lilly & Company
 
 ::::
 
+# Part 1: Discovery
 
+## GVSU (1998-2003){background-image="assets/img/network_background_mod.png" background-size="cover"}
 
+:::: {.columns}
 
+::: {.column width="60%"}
+
+::: {style="font-size: 0.7em"}
+* STA215: I was hooked on statistics!
+* Balance of theory and practical use of quantitative methods
+* Minor in Computer Science (Java was rough)
+* Capstone class on statistical consulting was immensely valuable
+
+::: 
+
+:::
+
+::: {.column width="40%"}
+
+![John Gabrosek & Eric Nantz (2003)](assets/img/Grad2-2.jpg)
+
+:::
+
+::::
 
 ## Important Skills (Beyond Stats) {background-image="assets/img/network_background_mod.png" background-size="cover"}
 
