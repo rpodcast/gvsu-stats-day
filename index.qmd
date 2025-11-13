@@ -11,14 +11,14 @@ format:
 
 ## {#titleslide data-menu-title="Title Slide"}
 
-<h2>How Open-Source has Revolutionized Life Sciences</h2>
+<h2>The Open-Source Revolution in Life Sciences</h2>
 <br>
 
 :::: {.columns}
 
 ::: {.column width="70%"}
 
-Eric Nantz
+Eric Nantz (GVSU alum 1998-2003)
 
 Statistician / Developer / Podcaster
 
@@ -39,4 +39,12 @@ Eli Lilly & Company
 :::
 
 ::::
+
+## Important Skills (Beyond Stats)
+
+* Communication
+* Stepping outside comfort zone
+* Confidence
+* Embrace innovation
+* Basics of good software engineering
 
