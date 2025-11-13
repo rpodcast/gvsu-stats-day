@@ -9,18 +9,20 @@ format:
     footer: "[rpodcast.github.io/gvsu-stats-day](https://rpodcast.github.io/gvsu-stats-day/)"
 ---
 
-## {#titleslide data-menu-title="Title Slide"}
+## {#titleslide data-menu-title="Title Slide" background-image="assets/img/tron_legacy_wallpaper_dim.png" background-size="cover" background-opacity="0.3"}
 
 <h2>The Open-Source Revolution in Life Sciences</h2>
 <br>
 
 :::: {.columns}
 
-::: {.column width="70%"}
+::: {.column width="80%"}
 
-Eric Nantz (GVSU alum 1998-2003)
+Eric Nantz
 
-Statistician / Developer / Podcaster
+::: {style="font-size: 0.7em"}
+
+Sr. Director (Innovation Statistics)
 
 Eli Lilly & Company
 
@@ -32,7 +34,9 @@ Eli Lilly & Company
 
 :::
 
-::: {.column width="30%"}
+:::
+
+::: {.column width="20%"}
 
 {{< qrcode https://rpodcast.github.io/gvsu-stats-day qr1 width=200 height=200 >}}
 
@@ -40,7 +44,11 @@ Eli Lilly & Company
 
 ::::
 
-## Important Skills (Beyond Stats)
+
+
+
+
+## Important Skills (Beyond Stats) {background-image="assets/img/network_background_mod.png" background-size="cover"}
 
 * Communication
 * Stepping outside comfort zone
