@@ -4,20 +4,62 @@
     "href": "index.html#titleslide",
     "title": "",
     "section": "",
-    "text": "The Open-Source Revolution in Life Sciences\n\n\n\n\nEric Nantz\n\nSr. Director (Innovation Statistics)\nEli Lilly & Company\n @rpodcast\n @rpodcast\n eric-nantz"
+    "text": "The Open-Source Revolution in Life Sciences\n\n\n\n\nEric Nantz\n\nSr. Director - Innovation Statistics\nEli Lilly & Company\nGVSU Alum!\n @rpodcast\n @rpodcast\n eric-nantz"
   },
   {
     "objectID": "index.html#gvsu-1998-2003",
     "href": "index.html#gvsu-1998-2003",
     "title": "",
     "section": "GVSU (1998-2003)",
-    "text": "GVSU (1998-2003)\n\n\n\n\nSTA215: I was hooked on statistics!\nBalance of theory and practical use of quantitative methods\nMinor in Computer Science (Java was rough)\nCapstone class on statistical consulting was immensely valuable\n\n\n\n\n\n\nJohn Gabrosek & Eric Nantz (2003)"
+    "text": "GVSU (1998-2003)\n\n\n\n\nSTA215: I was hooked on statistics!\nBalance of theory and practical use of quantitative methods\nMinor in Computer Science\nStatistical consulting capstone: immensely valuable\n\n\n\n\n\n\nJohn Gabrosek & Eric Nantz (2003)"
   },
   {
-    "objectID": "index.html#important-skills-beyond-stats",
-    "href": "index.html#important-skills-beyond-stats",
+    "objectID": "index.html#wmu-2003-2009",
+    "href": "index.html#wmu-2003-2009",
     "title": "",
-    "section": "Important Skills (Beyond Stats)",
-    "text": "Important Skills (Beyond Stats)\n\nCommunication\nStepping outside comfort zone\nConfidence\nEmbrace innovation\nBasics of good software engineering"
+    "section": "WMU (2003-2009)",
+    "text": "WMU (2003-2009)\n\n\n\n\nMasters Degree in Statistics …\nConvinced by important people to get a PhD!\nConsulting & Administration for Stat Computation Lab\n2007: Internship at Eli Lilly (leading to my dissertation topic!)\n2009: Complete PhD program and joined Eli Lilly"
+  },
+  {
+    "objectID": "index.html#clinical-statistician-role",
+    "href": "index.html#clinical-statistician-role",
+    "title": "",
+    "section": "Clinical Statistician Role",
+    "text": "Clinical Statistician Role\nAuthor statistical methods used in clinical trials:\n\nSample sizes required to meet desired treatment effect\nModels & Inferences for primary and secondary outcomes\nGradually introduced to advanced methods (multiplicity control)"
+  },
+  {
+    "objectID": "index.html#a-new-challenge",
+    "href": "index.html#a-new-challenge",
+    "title": "",
+    "section": "A New Challenge",
+    "text": "A New Challenge\nImmunology Biomarkers\n\n\n\n\nProteomics, gene expression, DNA\nThink differently:\n\nTailoring analytics to find optimal patient response\nUse R for cutting-edge analyses\nLaunch computations on Lilly’s HPC cluster!"
+  },
+  {
+    "objectID": "index.html#a-new-perspective",
+    "href": "index.html#a-new-perspective",
+    "title": "",
+    "section": "A New Perspective",
+    "text": "A New Perspective\n\n\n\n\nAfter correcting mistake, eager to learn better approaches to computing\nLaunched one of the most valuable collaborations in my career\nKickstart amazing innovations in our statistical computing infrastructure\nPowered by open-source software!"
+  },
+  {
+    "objectID": "index.html#paving-a-new-path",
+    "href": "index.html#paving-a-new-path",
+    "title": "",
+    "section": "Paving a New Path",
+    "text": "Paving a New Path\n\nEver-growing R package ecosystem provided foundation for key statistical capabilities\nIntegration with HPC and web technology to move beyond static outputs\nTaking (calculated) risks to challenge status-quo"
+  },
+  {
+    "objectID": "index.html#organic-collaboration",
+    "href": "index.html#organic-collaboration",
+    "title": "",
+    "section": "Organic Collaboration",
+    "text": "Organic Collaboration\n\n\n\n\n2018: Co-founded the R/Pharma Conference\nCompletely amazed by the influence of open-source in other life science companies\nKey initiatives originating from R/Pharma:\n\nR Submissions Working Group\nR Validation Hub\nPharmaverse"
+  },
+  {
+    "objectID": "index.html#drivers-to-success",
+    "href": "index.html#drivers-to-success",
+    "title": "",
+    "section": "Drivers to Success",
+    "text": "Drivers to Success\n\nCommunication with cross-functional colleagues\nStepping outside comfort zone\nEmbracing innovation\nKey Principles of Software Engineering:\n\nVersion Control\nLearning from others"
   }
 ]
