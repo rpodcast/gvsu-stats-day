@@ -21,3 +21,68 @@ $code-color: #89b4fa;
   top: 40%;
   right: 50%;
 }
+
+/* Chat containers */
+ .container {
+  border: 2px solid #dedede;
+  background-color: #1c494bff;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 0.7em;
+}
+
+/* Darker chat container */
+.darker {
+  border-color: #ccc;
+  background-color: #093436ff;
+}
+
+/* Clear floats */
+.container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Style images */
+.container img {
+  float: left;
+  max-width: 110px;
+  width: 100%;
+  margin-right: 10px;
+  border-radius: 30%;
+}
+
+/* Style the right image */
+.container img.right {
+  float: right;
+  margin-left: 20px;
+  margin-right:0;
+}
+
+/* Style time text */
+.time-right {
+  float: right;
+  color: #aaa;
+}
+
+/* Style time text */
+.time-left {
+  float: left;
+  color: #999;
+} 
+
+/* disable bullets in list items */
+.nobull {
+  list-style-type: none;
+}
+
+.nobull li span {
+  transition-delay: var(--delay);;
+}
+
+/* chat text */
+.chat-text {
+  font-size: "0.5em";
+}

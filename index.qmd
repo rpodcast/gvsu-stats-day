@@ -22,9 +22,11 @@ Eric Nantz
 
 ::: {style="font-size: 0.7em"}
 
-Sr. Director (Innovation Statistics)
+Sr. Director - Innovation Statistics
 
 Eli Lilly & Company
+
+GVSU Alum!
 
 {{< fa brands mastodon size=xl >}} [\@rpodcast](https://podcastindex.org/@rpodcast)
 
@@ -44,9 +46,9 @@ Eli Lilly & Company
 
 ::::
 
-# Part 1: Discovery
+# Discovery {background-image="assets/img/network_background_mod.png" background-size="cover"}
 
-## GVSU (1998-2003){background-image="assets/img/network_background_mod.png" background-size="cover"}
+## GVSU (1998-2003) {background-image="assets/img/network_background_mod.png" background-size="cover"}
 
 :::: {.columns}
 
@@ -55,8 +57,8 @@ Eli Lilly & Company
 ::: {style="font-size: 0.7em"}
 * STA215: I was hooked on statistics!
 * Balance of theory and practical use of quantitative methods
-* Minor in Computer Science (Java was rough)
-* Capstone class on statistical consulting was immensely valuable
+* Minor in Computer Science
+* Statistical consulting capstone: immensely valuable
 
 ::: 
 
@@ -70,11 +72,195 @@ Eli Lilly & Company
 
 ::::
 
-## Important Skills (Beyond Stats) {background-image="assets/img/network_background_mod.png" background-size="cover"}
+## WMU (2003-2009) {background-image="assets/img/network_background_mod.png" background-size="cover"}
 
-* Communication
+:::: {.columns}
+
+::: {.column width="60%"}
+
+::: {style="font-size: 0.7em"}
+* Masters Degree in Statistics ...
+* Convinced by important people to get a PhD!
+* Consulting & Administration for Stat Computation Lab
+* 2007: Internship at Eli Lilly (leading to my dissertation topic!)
+* 2009: Complete PhD program and joined Eli Lilly
+:::
+
+:::
+
+::: {.column width="40%"}
+
+![](assets/img/hpc-cluster.jpg)
+
+![](assets/img/Rlogo.svg){.absolute top=170 right=140 width="20%"}
+
+![](assets/img/tux.svg){.absolute top=400 right=150 width="15%"}
+
+:::
+
+::::
+
+# Entering the Grid (of Life Sciences) {background-image="assets/img/network_background_mod.png" background-size="cover"}
+
+## Clinical Statistician Role {background-image="assets/img/network_background_mod.png" background-size="cover"}
+
+Author statistical methods used in clinical trials:
+
+* Sample sizes required to meet desired treatment effect
+* Models & Inferences for primary and secondary outcomes
+* Gradually introduced to advanced methods (multiplicity control)
+
+## A New Challenge {background-image="assets/img/network_background_mod.png" background-size="cover"}
+
+Immunology Biomarkers
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+::: {style="font-size: 0.7em"}
+
+* Proteomics, gene expression, DNA
+* Think differently:
+    * Tailoring analytics to find optimal patient response
+    * Use R for cutting-edge analyses
+    * Launch computations on Lilly's HPC cluster!
+
+:::
+
+:::
+
+::: {.column width="40%"}
+
+![](assets/img/molecule.png)
+
+:::
+
+::::
+
+---
+
+<ul style="list-style-type: none;">
+
+::: {.fragment}
+
+<li>
+<div class="container">
+  <img src="assets/img/ed_dillinger.png" alt="Ed, the lead from research IT">
+  <p>Hello Eric, this is Ed from the research IT team. Did you submit a job array with ID 8675309?</p>
+</div>
+</li>
+
+:::
+
+::: {.fragment}
+
+<li>
+<div class="container darker">
+  <img src="assets/img/eric_happy.png" alt="Eric, the happy statistician" class="right">
+  <p>Hello Ed, nice to meet you! Yes, I submitted that job earlier today. I guess it is taking longer than I anticipated to complete.</p>
+</div>
+</li>
+
+:::
+
+::: {.fragment}
+
+<li>
+<div class="container">
+  <img src="assets/img/ed_dillinger.png" alt="Ed, the lead from research IT">
+  <p>Your HPC jobs have brought the entire HPC cluster down.</p>
+</div>
+</li>
+
+:::
+
+::: {.fragment}
+
+<li>
+<div class="container darker">
+  <img src="assets/img/eric_shock.png" alt="Eric, the statistician in complete shock" class="right">
+  <p style="font-size: 1.5em;">Oh no!</p>
+</div>
+</li>
+
+:::
+
+</ul>
+
+::: {.fragment}
+
+![](assets/img/star-trek-explode.gif){.absolute top=50 right=300}
+
+:::
+
+## A New Perspective  {background-image="assets/img/network_background_mod.png" background-size="cover"}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+::: {style="font-size: 0.7em"}
+
+* After correcting mistake, eager to learn better approaches to computing
+* Launched one of the most valuable collaborations in my career
+* Kickstart amazing innovations in our statistical computing infrastructure
+* Powered by open-source software!
+
+:::
+
+:::
+
+::: {.column width="40%"}
+
+![](assets/img/tron_group.png)
+
+:::
+
+::::
+
+## Paving a New Path {background-image="assets/img/network_background_mod.png" background-size="cover"}
+
+* Ever-growing R package ecosystem provided foundation for key statistical capabilities
+* Integration with HPC and web technology to move beyond static outputs
+* Taking (calculated) risks to challenge status-quo
+
+## {background-image="assets/img/flynn_solo_computer.jpeg" background-size="contain"}
+
+## Organic Collaboration {background-image="assets/img/network_background_mod.png" background-size="cover"}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+::: {style="font-size: 0.7em"}
+
+* 2018: Co-founded the [R/Pharma Conference](https://rinpharma.com/)
+* Completely amazed by the influence of open-source in other life science companies
+* Key initiatives originating from R/Pharma:
+    * [R Submissions Working Group](https://rconsortium.github.io/submissions-wg/)
+    * [R Validation Hub](https://pharmar.org/)
+    * [Pharmaverse](https://pharmaverse.org/)
+
+:::
+
+:::
+
+::: {.column width="40%"}
+
+![](assets/img/rpharma_audience.jpg)
+
+:::
+
+::::
+
+
+## Drivers to Success {background-image="assets/img/network_background_mod.png" background-size="cover"}
+
+* Communication with cross-functional colleagues
 * Stepping outside comfort zone
-* Confidence
-* Embrace innovation
-* Basics of good software engineering
+* Embracing innovation
+* Key Principles of Software Engineering:
+    * Version Control
+    * Learning from others
 
