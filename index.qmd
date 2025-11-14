@@ -46,9 +46,9 @@ GVSU Alum!
 
 ::::
 
-# Discovery {background-image="assets/img/network_background_mod.png" background-size="cover"}
+# Discovery {background-image="assets/img/network_background_mod.png" background-size="cover" background-opacity="0.6"}
 
-## GVSU (1998-2003) {background-image="assets/img/network_background_mod.png" background-size="cover"}
+## GVSU (1998-2003) {background-image="assets/img/network_background_mod.png" background-size="cover" background-opacity="0.6"}
 
 :::: {.columns}
 
@@ -72,7 +72,7 @@ GVSU Alum!
 
 ::::
 
-## WMU (2003-2009) {background-image="assets/img/network_background_mod.png" background-size="cover"}
+## WMU (2003-2009) {background-image="assets/img/network_background_mod.png" background-size="cover" background-opacity="0.6"}
 
 :::: {.columns}
 
@@ -100,7 +100,7 @@ GVSU Alum!
 
 ::::
 
-# Entering the Grid (of Life Sciences) {background-image="assets/img/network_background_mod.png" background-size="cover"}
+# Entering the Grid (of Life Sciences) {background-image="assets/img/network_background_mod.png" background-size="cover" background-opacity="0.6"}
 
 ## Clinical Statistician Role {background-image="assets/img/network_background_mod.png" background-size="cover"}
 
@@ -110,7 +110,7 @@ Author statistical methods used in clinical trials:
 * Models & Inferences for primary and secondary outcomes
 * Gradually introduced to advanced methods (multiplicity control)
 
-## A New Challenge {background-image="assets/img/network_background_mod.png" background-size="cover"}
+## A New Challenge {background-image="assets/img/network_background_mod.png" background-size="cover" background-opacity="0.6"}
 
 Immunology Biomarkers
 
@@ -194,7 +194,7 @@ Immunology Biomarkers
 
 :::
 
-## A New Perspective  {background-image="assets/img/network_background_mod.png" background-size="cover"}
+## A New Perspective  {background-image="assets/img/network_background_mod.png" background-size="cover" background-opacity="0.6"}
 
 :::: {.columns}
 
@@ -219,7 +219,7 @@ Immunology Biomarkers
 
 ::::
 
-## Paving a New Path {background-image="assets/img/network_background_mod.png" background-size="cover"}
+## Paving a New Path {background-image="assets/img/network_background_mod.png" background-size="cover" background-opacity="0.6"}
 
 * Ever-growing R package ecosystem provided foundation for key statistical capabilities
 * Integration with HPC and web technology to move beyond static outputs
@@ -227,7 +227,7 @@ Immunology Biomarkers
 
 ## {background-image="assets/img/flynn_solo_computer.jpeg" background-size="contain"}
 
-## Organic Collaboration {background-image="assets/img/network_background_mod.png" background-size="cover"}
+## Organic Collaboration {background-image="assets/img/network_background_mod.png" background-size="cover" background-opacity="0.6"}
 
 :::: {.columns}
 
@@ -248,14 +248,38 @@ Immunology Biomarkers
 
 ::: {.column width="40%"}
 
-![](assets/img/rpharma_audience.jpg)
+![R/Pharma 2018-Harvard](assets/img/rpharma_audience.jpg)
 
 :::
 
 ::::
 
+## Learning Out Loud {background-image="assets/img/network_background_mod.png" background-size="cover" background-opacity="0.6"}
 
-## Drivers to Success {background-image="assets/img/network_background_mod.png" background-size="cover"}
+:::: {.columns}
+
+::: {.column width="60%"}
+
+::: {style="font-size: 0.7em"}
+
+* Launched the [R-Podcast](https://r-podcast.org) in 2012
+    * Giving back to the R community in a novel way
+    * Learning from the amazing package authors and practitioners
+    * Conversations that profoundly impacted my journey
+
+:::
+
+:::
+
+::: {.column width="40%"}
+
+![rstudio::conf 2019](assets/img/2019-01-16-18.55.49.JPG)
+
+:::
+
+::::
+
+## Drivers to Success {background-image="assets/img/network_background_mod.png" background-size="cover" background-opacity="0.6"}
 
 * Communication with cross-functional colleagues
 * Stepping outside comfort zone
@@ -264,3 +288,50 @@ Immunology Biomarkers
     * Version Control
     * Learning from others
 
+
+## Thank You! {background-image="assets/img/network_background_mod.png" background-size="cover" background-opacity="0.6"}
+
+:::: {.columns}
+
+::: {.column width=60%}
+
+::: {style="font-size: 0.7em"}
+
+🏡 **Slides**: 
+
+[rpodcast.github.io/gvsu-stats-day](https://rpodcast.github.io/gvsu-stats-day/)
+
+📦 **GitHub Repository**:
+
+[github.com/rpodcast/gvsu-stats-day](https://github.com/rpodcast/gvsu-stats-day)
+
+:::
+
+![](assets/img/rpodcast-hexagon.png){width="40%"}
+
+:::
+
+::: {.column width=40%}
+
+::: {style="font-size: 0.7em"}
+
+**Let's Connect!**
+
+{{< fa solid microphone size=xl >}} [R-Podcast](https://r-podcast.org)
+
+{{< fa solid microphone size=xl >}} [R Weekly Highlights](https://serve.podhome.fm/r-weekly-highlights)
+
+{{< fa solid display >}} [Shiny Dev Series](https://shinydevseries.com)
+
+{{< fa brands mastodon size=xl >}} [\@rpodcast](https://podcastindex.org/@rpodcast)
+
+{{< fa brands bluesky size=xl >}} [\@rpodcast](https://bsky.app/profile/rpodcast.bsky.social)
+
+{{< fa brands linkedin size=xl >}} [eric-nantz](https://www.linkedin.com/in/eric-nantz-6621617/)
+
+{{< fa brands github size=xl >}} [rpodcast](https://github.com/rpodcast/)
+:::
+
+:::
+
+::::
