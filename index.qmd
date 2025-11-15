@@ -102,7 +102,7 @@ GVSU Alum!
 
 # Entering the Grid (of Life Sciences) {background-image="assets/img/network_background_mod.png" background-size="cover" background-opacity="0.6"}
 
-## Clinical Statistician Role {background-image="assets/img/network_background_mod.png" background-size="cover"}
+## Clinical Statistician Role {background-image="assets/img/network_background_mod.png" background-size="cover" background-opacity="0.6"}
 
 Author statistical methods used in clinical trials:
 
