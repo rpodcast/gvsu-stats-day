@@ -3,3 +3,5 @@ project:
   
 website: 
   site-url: "https://rpodcast.github.io/gvsu-stats-day"
+  title: "Open-Source Revolution in Life Sciences"
+  favicon: "assets/img/favicon_io/favicon.ico"
