@@ -284,9 +284,8 @@ Immunology Biomarkers
 * Communication with cross-functional colleagues
 * Stepping outside comfort zone
 * Embracing innovation
-* Key Principles of Software Engineering:
-    * Version Control
-    * Learning from others
+* Software Engineering best practices
+* Learning from others
 
 
 ## Thank You! {background-image="assets/img/network_background_mod.png" background-size="cover" background-opacity="0.6"}
