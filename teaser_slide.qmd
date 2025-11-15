@@ -1,0 +1,54 @@
+---
+format:
+  revealjs:
+    auto-play-media: true
+    link-external-newwindow: true
+    menu: true
+    code-line-numbers: false
+    theme: [default, custom.scss]
+---
+
+## {#titleslide data-menu-title="Title Slide" background-image="assets/img/tron_legacy_wallpaper_dim.png" background-size="cover" background-opacity="0.3"}
+
+<h2>The Open-Source Revolution in Life Sciences</h2>
+<br>
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+::: {style="font-size: 0.7em"}
+
+A personal journey showcasing the evolution of statistics within life sciences:
+
+:::
+
+::: {style="font-size: 0.6em"}
+
+🏫 Navigating the path to a career in Biostatics
+
+🪄 Discovering novel uses of statistics and technology in unexpected ways
+
+🚀 Riding the wave of open-source innovations to launch a new era in clinical statistics
+
+🎤 The benefits of _learning out loud_ and finding my place in the broader community
+
+:::
+
+:::
+
+::: {.column width="30%"}
+
+![](assets/img/rpodcast-hexagon.png)
+
+::: {style="font-size: 0.5em"}
+
+Eric Nantz, Ph.D.
+
+GVSU Alum 1998-2003
+
+:::
+
+:::
+
+::::
